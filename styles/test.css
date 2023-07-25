@@ -1,0 +1,31 @@
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.smallText {
+  font-size: .1in;
+  font-weight: 999;
+  color: red;
+}
+.newLinkFormatText {
+  text-align: center;
+  text-color: black;
+  text-decoration: none;
+  display: block;
+  margin: 0 auto;
+}
+
+.newLinkformat {
+  display: block;
+  margin: 0 auto;
+}
+
+p, h1 {
+  text-align: center;
+}
+
+body {
+  background-color: lightsteelblue;
+}
