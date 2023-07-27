@@ -63,6 +63,10 @@ header li :hover {
     color: var(--secondary2);
 }
 
+.video {
+  width: 95%;
+}
+
 .content {
     padding: 74px 50px;
     background-color: var(--secondary2);
