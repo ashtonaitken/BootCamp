@@ -33,6 +33,7 @@ header {
     font-weight: 300;
     padding: 15px;
     justify-content: center;
+    z-index: 5;
 }
 
 header h1 {
@@ -101,6 +102,29 @@ button {
     cursor: pointer;
 }
 
+.carousel-item {
+  margin: 0 auto;
+}
+
+.carousel {
+  background-color: var(--background1);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.carouselOutside{
+  padding: 250px;
+  background-color: var(--background1)
+}
+
+.carousel-control-prev{
+  background-color: var(--secondary2);
+}
+
+.carousel-control-next{
+  background-color: var(--secondary2);
+}
+
 footer {
     background-color: var(--background2);
     color: var(--text1);
@@ -127,7 +151,7 @@ footer div {
 
 @media screen and (max-width: 750px) {
     footer {
-        grid-template-columns: 1fr;
+        grid-template-columns...: 1fr;
     }
     header {
         flex-direction: column;

@@ -11,6 +11,10 @@ body {
   background-color: var(--background1);
 }
 
+img {
+  margin: 0 auto;
+}
+
 .content {
   padding: 74px 50px;
   background-color: var(--secondary1);
@@ -46,6 +50,11 @@ a {
 
 p {
   color: var(--text1);
+  margin-left: 10px;
+}
+
+h1 {
+  margin-left: 10px;
 }
 
 header h1 {
