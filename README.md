@@ -11,7 +11,7 @@ This project is a draft.
 
 A few resources to get you started if this is your first HTML/CSS/JS project:
 
-- [No link yet]()
+- https://ashtonaitken.github.io/BootCamp/index.html
 - [No link yet]()
 
 For help getting started with development, view the
